@@ -1,0 +1,1 @@
+FROM gcr.io/kubeflow-ci/pytorch-dist-mnist_test:1.0
